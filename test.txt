@@ -11,5 +11,3 @@ JUG
 KITE
 LAMP
 nihaan
-orange
-parrot
